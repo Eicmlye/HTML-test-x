@@ -1,3 +1,5 @@
+> 本文不再更新, 文章将在[我的博客](https://eicmlye.github.io/2022/07/26/html-tutorial/)继续更新. 
+
 # HTML 基础用法
 
 - [1. 注释](#1-注释)
